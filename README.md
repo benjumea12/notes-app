@@ -7,6 +7,8 @@ Funciones:
    - Archivar y desarchivar nota   
    - Eliminar nota   
    
-   Fronted: Angularjs
-   Backend: PHP (Slim framework)
-   Data: Mongo DB
+Fronted: Angularjs
+
+Backend: PHP (Slim framework)
+
+Data: Mongo DB
