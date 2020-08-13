@@ -6,3 +6,7 @@ Funciones:
    - Cambiar color de nota   
    - Archivar y desarchivar nota   
    - Eliminar nota   
+   
+   Fronted: Angularjs
+   Backend: PHP (Slim framework)
+   Data: Mongo DB
