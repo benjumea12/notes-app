@@ -1,6 +1,6 @@
 # Notes App
 Funciones: 
- 
+   - Autentificación
    - Crear nota  
    - Editar nota   
    - Cambiar color de nota   
