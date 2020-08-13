@@ -8,5 +8,7 @@ Funciones:
    - Eliminar nota   
    
 Fronted: Angularjs
+
 Backend: PHP (Slim framework)
+
 Data: Mongo DB
